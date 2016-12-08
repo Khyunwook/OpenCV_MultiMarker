@@ -1,0 +1,12 @@
+﻿  main.cpp
+c:\users\hyeonwook\desktop\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+c:\users\hyeonwook\desktop\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+c:\users\hyeonwook\desktop\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+c:\users\hyeonwook\desktop\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+c:\users\hyeonwook\documents\visual studio 2015\projects\ar\ar\main.cpp(74): warning C4305: '*=': truncation from 'double' to 'float'
+c:\users\hyeonwook\documents\visual studio 2015\projects\ar\ar\main.cpp(194): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\hyeonwook\documents\visual studio 2015\projects\ar\ar\main.cpp(195): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\hyeonwook\documents\visual studio 2015\projects\ar\ar\main.cpp(196): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\hyeonwook\documents\visual studio 2015\projects\ar\ar\main.cpp(197): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Ar.vcxproj -> c:\users\hyeonwook\documents\visual studio 2015\Projects\Ar\x64\Debug\Ar.exe
+  Ar.vcxproj -> c:\users\hyeonwook\documents\visual studio 2015\Projects\Ar\x64\Debug\Ar.pdb (Full PDB)
